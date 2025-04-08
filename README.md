@@ -9,4 +9,4 @@ A minimal C++ library to **read and write mzQC files** (Mass Spectrometry Qualit
 
 ## Dependencies
 - C++17
-- [`nlohmann/json`](https://github.com/nlohmann/json) (install via vcpkg or include header)
+- [`nlohmann/json`](https://github.com/nlohmann/json) (included header)
